@@ -1,0 +1,33 @@
+  .container-fluid{
+    background-color: blue;
+    color: white;
+  }
+  #secondNav{
+    /*background-color: blue;*/
+  }
+  .secondNav{
+    padding: 5px;
+    /*color: white;*/
+    margin: 10px;
+  }
+
+  #searchTextbox{
+    margin: 10px;
+  }
+  .wrapper {
+    display:inline-block;
+    float: right;
+  }
+  #featuredArticle{
+    margin-top: 32px;
+  }
+  #title{
+    color: blue;
+  }
+  #author{
+    font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+    font-style: italic;
+  }
+  #author a{
+    color: lightskyblue;
+  }
